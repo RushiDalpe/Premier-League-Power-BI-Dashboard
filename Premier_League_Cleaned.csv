@@ -1,0 +1,281 @@
+Team,Played,Won,Drawn,Lost,Goals For,Goals Against,Goal Difference,Points,Gameweek,Form
+Arsenal,13,9,3,1,25,7,18,30,13,
+Manchester City,13,8,1,4,27,12,15,25,13,
+Chelsea,13,7,3,3,24,12,12,24,13,
+Aston Villa,13,7,3,3,16,11,5,24,13,
+Brighton & Hove Albion,13,6,4,3,21,16,5,22,13,
+Sunderland,13,6,4,3,17,13,4,22,13,
+Manchester United,13,6,3,4,21,20,1,21,13,
+Liverpool,13,7,0,6,20,20,0,21,13,
+Crystal Palace,13,5,5,3,17,11,6,20,13,
+Brentford,13,6,1,6,21,20,1,19,13,
+AFC Bournemouth,13,5,4,4,21,23,-2,19,13,
+Tottenham Hotspur,13,5,3,5,21,16,5,18,13,
+Newcastle United,13,5,3,5,17,16,1,18,13,
+Everton,13,5,3,5,14,17,-3,18,13,
+Fulham,13,5,2,6,15,17,-2,17,13,
+Nottingham Forest,13,3,3,7,13,22,-9,12,13,
+West Ham United,13,3,2,8,15,27,-12,11,13,
+Leeds United,13,3,2,8,13,25,-12,11,13,
+Burnley,13,3,1,9,15,27,-12,10,13,
+Wolverhampton Wanderers,13,0,2,11,7,28,-21,2,13,
+Arsenal,14,10,3,1,27,7,20,33,14,
+Manchester City,14,9,1,4,32,16,16,28,14,
+Aston Villa,14,8,3,3,20,14,6,27,14,
+Chelsea,14,7,3,4,25,15,10,24,14,
+Crystal Palace,14,6,5,3,18,11,7,23,14,
+Sunderland,14,6,5,3,18,14,4,23,14,
+Brighton & Hove Albion,14,6,4,4,24,20,4,22,14,
+Manchester United,14,6,4,4,22,21,1,22,14,
+Liverpool,14,7,1,6,21,21,0,22,14,
+Everton,14,6,3,5,15,17,-2,21,14,
+Tottenham Hotspur,14,5,4,5,23,18,5,19,14,
+Newcastle United,14,5,4,5,19,18,1,19,14,
+Brentford,14,6,1,7,21,22,-1,19,14,
+AFC Bournemouth,14,5,4,5,21,24,-3,19,14,
+Fulham,14,5,2,7,19,22,-3,17,14,
+Nottingham Forest,14,4,3,7,14,22,-8,15,14,
+Leeds United,14,4,2,8,16,26,-10,14,14,
+West Ham United,14,3,3,8,16,28,-12,12,14,
+Burnley,14,3,1,10,15,28,-13,10,14,
+Wolverhampton Wanderers,14,0,2,12,7,29,-22,2,14,
+Arsenal,15,10,3,2,28,9,19,33,15,
+Manchester City,15,10,1,4,35,16,19,31,15,
+Aston Villa,15,9,3,3,22,15,7,30,15,
+Crystal Palace,15,7,5,3,20,12,8,26,15,
+Chelsea,15,7,4,4,25,15,10,25,15,
+Manchester United,15,7,4,4,26,22,4,25,15,
+Everton,15,7,3,5,18,17,1,24,15,
+Brighton & Hove Albion,15,6,5,4,25,21,4,23,15,
+Sunderland,15,6,5,4,18,17,1,23,15,
+Liverpool,15,7,2,6,24,24,0,23,15,
+Tottenham Hotspur,15,6,4,5,25,18,7,22,15,
+Newcastle United,15,6,4,5,21,19,2,22,15,
+AFC Bournemouth,15,5,5,5,21,24,-3,20,15,
+Brentford,15,6,1,8,21,24,-3,19,15,
+Fulham,15,5,2,8,20,24,-4,17,15,
+Leeds United,15,4,3,8,19,29,-10,15,15,
+Nottingham Forest,15,4,3,8,14,25,-11,15,15,
+West Ham United,15,3,4,8,17,29,-12,13,15,
+Burnley,15,3,1,11,16,30,-14,10,15,
+Wolverhampton Wanderers,15,0,2,13,8,33,-25,2,15,
+Arsenal,16,11,3,2,30,10,20,36,16,DWDWLW
+Manchester City,16,11,1,4,38,16,22,34,16,WLWWWW
+Aston Villa,16,10,3,3,25,17,8,33,16,WWWWWW
+Chelsea,16,8,4,4,27,15,12,28,16,WWDLDW
+Crystal Palace,16,7,5,4,20,15,5,26,16,DWLWWL
+Manchester United,16,7,5,4,30,26,4,26,16,DLWDWD
+Liverpool,16,8,2,6,26,24,2,26,16,LLWDDW
+Sunderland,16,7,5,4,19,17,2,26,16,DLWDLW
+Everton,16,7,3,6,18,19,-1,24,16,WWLWWL
+Brighton & Hove Albion,16,6,5,5,25,23,2,23,16,DWWLDL
+Tottenham Hotspur,16,6,4,6,25,21,4,22,16,DLLDWL
+Newcastle United,16,6,4,6,21,20,1,22,16,LWWDWL
+AFC Bournemouth,16,5,6,5,25,28,-3,21,16,LDLLDD
+Fulham,16,6,2,8,23,26,-3,20,16,LWWLLW
+Brentford,16,6,2,8,22,25,-3,20,16,WLWLLD
+Nottingham Forest,16,5,3,8,17,25,-8,18,16,WWLWLW
+Leeds United,16,4,4,8,20,30,-10,16,16,LLLWDD
+West Ham United,16,3,4,9,19,32,-13,13,16,WDLDDL
+Burnley,16,3,1,12,18,33,-15,10,16,LLLLLL
+Wolverhampton Wanderers,16,0,2,14,9,35,-26,2,16,LLLLLL
+Arsenal,17,12,3,2,31,10,21,39,17,WDWLWW
+Manchester City,17,12,1,4,41,16,25,37,17,LWWWWW
+Aston Villa,17,11,3,3,27,18,9,36,17,WWWWWW
+Chelsea,17,8,5,4,29,17,12,29,17,WDLDWD
+Liverpool,17,9,2,6,28,25,3,29,17,LWDDWW
+Sunderland,17,7,6,4,19,17,2,27,17,LWDLWD
+Manchester United,17,7,5,5,31,28,3,26,17,LWDWDL
+Crystal Palace,17,7,5,5,21,19,2,26,17,WLWWLL
+Brighton & Hove Albion,17,6,6,5,25,23,2,24,17,WWLDLD
+Everton,17,7,3,7,18,20,-2,24,17,WLWWLL
+Newcastle United,17,6,5,6,23,22,1,23,17,WWDWLD
+Brentford,17,7,2,8,24,25,-1,23,17,LWLLDW
+Fulham,17,7,2,8,24,26,-2,23,17,WWLLWW
+Tottenham Hotspur,17,6,4,7,26,23,3,22,17,LLDWLL
+AFC Bournemouth,17,5,7,5,26,29,-3,22,17,DLLDDD
+Leeds United,17,5,4,8,24,31,-7,19,17,LLWDDW
+Nottingham Forest,17,5,3,9,17,26,-9,18,17,WLWLWL
+West Ham United,17,3,4,10,19,35,-16,13,17,DLDDLL
+Burnley,17,3,2,12,19,34,-15,11,17,LLLLLD
+Wolverhampton Wanderers,17,0,2,15,9,37,-28,2,17,LLLLLL
+Arsenal,18,13,3,2,33,11,22,42,18,DWLWWW
+Manchester City,18,13,1,4,43,17,26,40,18,WWWWWW
+Aston Villa,18,12,3,3,29,19,10,39,18,WWWWWW
+Liverpool,18,10,2,6,30,26,4,32,18,WDDWWW
+Chelsea,18,8,5,5,30,19,11,29,18,DLDWDL
+Manchester United,18,8,5,5,32,28,4,29,18,WDWDLW
+Sunderland,18,7,7,4,20,18,2,28,18,WDLWDD
+Brentford,18,8,2,8,28,26,2,26,18,WLLDWW
+Crystal Palace,18,7,5,6,21,20,1,26,18,LWWLLL
+Fulham,18,8,2,8,25,26,-1,26,18,WLLWWW
+Tottenham Hotspur,18,7,4,7,27,23,4,25,18,LDWLLW
+Everton,18,7,4,7,18,20,-2,25,18,LWWLLD
+Brighton & Hove Albion,18,6,6,6,26,25,1,24,18,WLDLDL
+Newcastle United,18,6,5,7,23,23,0,23,18,WDWLDL
+AFC Bournemouth,18,5,7,6,27,33,-6,22,18,LLDDDL
+Leeds United,18,5,5,8,25,32,-7,20,18,LWDDWD
+Nottingham Forest,18,5,3,10,18,28,-10,18,18,LWLWLL
+West Ham United,18,3,4,11,19,36,-17,13,18,LDDLLL
+Burnley,18,3,3,12,19,34,-15,12,18,LLLLDD
+Wolverhampton Wanderers,18,0,2,16,10,39,-29,2,18,LLLLLL
+Arsenal,19,14,3,2,37,12,25,45,19,WLWWWW
+Manchester City,19,13,2,4,43,17,26,41,19,WWWWWD
+Aston Villa,19,12,3,4,30,23,7,39,19,WWWWWL
+Liverpool,19,10,3,6,30,26,4,33,19,DDWWWD
+Chelsea,19,8,6,5,32,21,11,30,19,LDWDLD
+Manchester United,19,8,6,5,33,29,4,30,19,DWDLWD
+Sunderland,19,7,8,4,20,18,2,29,19,DLWDDD
+Everton,19,8,4,7,20,20,0,28,19,WWLLDW
+Brentford,19,8,3,8,28,26,2,27,19,LLDWWD
+Crystal Palace,19,7,6,6,22,21,1,27,19,WWLLLD
+Fulham,19,8,3,8,26,27,-1,27,19,LLWWWD
+Tottenham Hotspur,19,7,5,7,27,23,4,26,19,DWLLWD
+Newcastle United,19,7,5,7,26,24,2,26,19,DWLDLW
+Brighton & Hove Albion,19,6,7,6,28,27,1,25,19,LDLDLD
+AFC Bournemouth,19,5,8,6,29,35,-6,23,19,LDDDLD
+Leeds United,19,5,6,8,25,32,-7,21,19,WDDWDD
+Nottingham Forest,19,5,3,11,18,30,-12,18,19,WLWLLL
+West Ham United,19,3,5,11,21,38,-17,14,19,DDLLLD
+Burnley,19,3,3,13,20,37,-17,12,19,LLLDDL
+Wolverhampton Wanderers,19,0,3,16,11,40,-29,3,19,LLLLLD
+Arsenal,20,15,3,2,40,14,26,48,20,LWWWWW
+Manchester City,20,13,3,4,44,18,26,42,20,WWWWDD
+Aston Villa,20,13,3,4,33,24,9,42,20,WWWWLW
+Liverpool,20,10,4,6,32,28,4,34,20,DWWWDD
+Chelsea,20,8,7,5,33,22,11,31,20,DWDLDD
+Manchester United,20,8,7,5,34,30,4,31,20,WDLWDD
+Brentford,20,9,3,8,32,28,4,30,20,LDWWDW
+Sunderland,20,7,9,4,21,19,2,30,20,LWDDDD
+Newcastle United,20,8,5,7,28,24,4,29,20,WLDLWW
+Brighton & Hove Albion,20,7,7,6,30,27,3,28,20,DLDLDW
+Fulham,20,8,4,8,28,29,-1,28,20,LWWWDD
+Everton,20,8,4,8,22,24,-2,28,20,WLLDWL
+Tottenham Hotspur,20,7,6,7,28,24,4,27,20,WLLWDD
+Crystal Palace,20,7,6,7,22,23,-1,27,20,WLLLDL
+AFC Bournemouth,20,5,8,7,31,38,-7,23,20,DDDLDL
+Leeds United,20,5,7,8,26,33,-7,22,20,DDWDDD
+Nottingham Forest,20,5,3,12,19,33,-14,18,20,LWLLLL
+West Ham United,20,3,5,12,21,41,-20,14,20,DLLLDL
+Burnley,20,3,3,14,20,39,-19,12,20,LLDDLL
+Wolverhampton Wanderers,20,1,3,16,14,40,-26,6,20,LLLLDW
+Arsenal,21,15,4,2,40,14,26,49,21,WWWWWD
+Manchester City,21,13,4,4,45,19,26,43,21,WWWDDD
+Aston Villa,21,13,4,4,33,24,9,43,21,WWWLWD
+Liverpool,21,10,5,6,32,28,4,35,21,WWWDDD
+Brentford,21,10,3,8,35,28,7,33,21,DWWDWW
+Newcastle United,21,9,5,7,32,27,5,32,21,LDLWWW
+Manchester United,21,8,8,5,36,32,4,32,21,DLWDDD
+Chelsea,21,8,7,6,34,24,10,31,21,WDLDDL
+Fulham,21,9,4,8,30,30,0,31,21,WWWDDW
+Sunderland,21,7,9,5,21,22,-1,30,21,WDDDDL
+Brighton & Hove Albion,21,7,8,6,31,28,3,29,21,LDLDWD
+Everton,21,8,5,8,23,25,-2,29,21,LLDWLD
+Crystal Palace,21,7,7,7,22,23,-1,28,21,LLLDLD
+Tottenham Hotspur,21,7,6,8,30,27,3,27,21,LLWDDL
+AFC Bournemouth,21,6,8,7,34,40,-6,26,21,DDLDLW
+Leeds United,21,5,7,9,29,37,-8,22,21,DWDDDL
+Nottingham Forest,21,6,3,12,21,34,-13,21,21,WLLLLW
+West Ham United,21,3,5,13,22,43,-21,14,21,LLLDLL
+Burnley,21,3,4,14,22,41,-19,13,21,LDDLLD
+Wolverhampton Wanderers,21,1,4,16,15,41,-26,7,21,LLLDWD
+Arsenal,22,15,5,2,40,14,26,50,22,WWWWDD
+Manchester City,22,13,4,5,45,21,24,43,22,WWDDDL
+Aston Villa,22,13,4,5,33,25,8,43,22,WWLWDL
+Liverpool,22,10,6,6,33,29,4,36,22,WWDDDD
+Manchester United,22,9,8,5,38,32,6,35,22,LWDDDW
+Chelsea,22,9,7,6,36,24,12,34,22,DLDDLW
+Brentford,22,10,3,9,35,30,5,33,22,WWDWWL
+Newcastle United,22,9,6,7,32,27,5,33,22,DLWWWD
+Sunderland,22,8,9,5,23,23,0,33,22,DDDDLW
+Everton,22,9,5,8,24,25,-1,32,22,LDWLDW
+Fulham,22,9,4,9,30,31,-1,31,22,WWDDWL
+Brighton & Hove Albion,22,7,9,6,32,29,3,30,22,DLDWDD
+Crystal Palace,22,7,7,8,23,25,-2,28,22,LLDLDL
+Tottenham Hotspur,22,7,6,9,31,29,2,27,22,LWDDLL
+AFC Bournemouth,22,6,9,7,35,41,-6,27,22,DLDLWD
+Leeds United,22,6,7,9,30,37,-7,25,22,WDDDLW
+Nottingham Forest,22,6,4,12,21,34,-13,22,22,LLLLWD
+West Ham United,22,4,5,13,24,44,-20,17,22,LLDLLW
+Burnley,22,3,5,14,23,42,-19,14,22,DDLLDD
+Wolverhampton Wanderers,22,1,5,16,15,41,-26,8,22,LLDWDD
+Arsenal,23,15,5,3,42,17,25,50,23,WWWDDL
+Manchester City,23,14,4,5,47,21,26,46,23,WDDDLW
+Aston Villa,23,14,4,5,35,25,10,46,23,WLWDLW
+Manchester United,23,10,8,5,41,34,7,38,23,WDDDWW
+Chelsea,23,10,7,6,39,25,14,37,23,LDDLWW
+Liverpool,23,10,6,7,35,32,3,36,23,WDDDDL
+Fulham,23,10,4,9,32,32,0,34,23,WDDWLW
+Brentford,23,10,3,10,35,32,3,33,23,WDWWLL
+Newcastle United,23,9,6,8,32,29,3,33,23,LWWWDL
+Everton,23,9,6,8,25,26,-1,33,23,DWLDWD
+Sunderland,23,8,9,6,24,26,-2,33,23,DDDLWL
+Brighton & Hove Albion,23,7,9,7,33,31,2,30,23,LDWDDL
+AFC Bournemouth,23,7,9,7,38,43,-5,30,23,LDLWDW
+Tottenham Hotspur,23,7,7,9,33,31,2,28,23,WDDLLD
+Crystal Palace,23,7,7,9,24,28,-4,28,23,LDLDLL
+Leeds United,23,6,8,9,31,38,-7,26,23,DDDLWD
+Nottingham Forest,23,7,4,12,23,34,-11,25,23,LLLWDW
+West Ham United,23,5,5,13,27,45,-18,20,23,LDLLWW
+Burnley,23,3,6,14,25,44,-19,15,23,DLLDDD
+Wolverhampton Wanderers,23,1,5,17,15,43,-28,8,23,LDWDDL
+Arsenal,24,16,5,3,46,17,29,53,24,WWDDLW
+Manchester City,24,14,5,5,49,23,26,47,24,DDDLWD
+Aston Villa,24,14,4,6,35,26,9,46,24,LWDLWL
+Manchester United,24,11,8,5,44,36,8,41,24,DDDWWW
+Chelsea,24,11,7,6,42,27,15,40,24,DDLWWW
+Liverpool,24,11,6,7,39,33,6,39,24,DDDDLW
+Brentford,24,11,3,10,36,32,4,36,24,DWWLLW
+Sunderland,24,9,9,6,27,26,1,36,24,DDLWLW
+Fulham,24,10,4,10,34,35,-1,34,24,DDWLWL
+Everton,24,9,7,8,26,27,-1,34,24,WLDWDD
+Newcastle United,24,9,6,9,33,33,0,33,24,WWWDLL
+AFC Bournemouth,24,8,9,7,40,43,-3,33,24,DLWDWW
+Brighton & Hove Albion,24,7,10,7,34,32,2,31,24,DWDDLD
+Tottenham Hotspur,24,7,8,9,35,33,2,29,24,DDLLDD
+Crystal Palace,24,7,8,9,25,29,-4,29,24,DLDLLD
+Leeds United,24,6,8,10,31,42,-11,26,24,DDLWDL
+Nottingham Forest,24,7,5,12,24,35,-11,26,24,LLWDWD
+West Ham United,24,5,5,14,29,48,-19,20,24,DLLWWL
+Burnley,24,3,6,15,25,47,-22,15,24,LLDDDL
+Wolverhampton Wanderers,24,1,5,18,15,45,-30,8,24,DWDDLL
+Arsenal,25,17,5,3,49,17,32,56,25,WDDLWW
+Manchester City,25,15,5,5,51,24,27,50,25,DDLWDW
+Aston Villa,25,14,5,6,36,27,9,47,25,WDLWLD
+Manchester United,25,12,8,5,46,36,10,44,25,DDWWWW
+Chelsea,25,12,7,6,45,28,17,43,25,DLWWWW
+Liverpool,25,11,6,8,40,35,5,39,25,DDDLWL
+Brentford,25,12,3,10,39,34,5,39,25,WWLLWW
+Everton,25,10,7,8,28,28,0,37,25,LDWDDW
+Sunderland,25,9,9,7,27,29,-2,36,25,DLWLWL
+Fulham,25,10,4,11,35,37,-2,34,25,DWLWLL
+AFC Bournemouth,25,8,10,7,41,44,-3,34,25,LWDWWD
+Newcastle United,25,9,6,10,35,36,-1,33,25,WWDLLL
+Crystal Palace,25,8,8,9,26,29,-3,32,25,LDLLDW
+Brighton & Hove Albion,25,7,10,8,34,33,1,31,25,WDDLDL
+Tottenham Hotspur,25,7,8,10,35,35,0,29,25,DLLDDL
+Leeds United,25,7,8,10,34,43,-9,29,25,DLWDLW
+Nottingham Forest,25,7,5,13,25,38,-13,26,25,LWDWDL
+West Ham United,25,6,5,14,31,48,-17,23,25,LLWWLW
+Burnley,25,3,6,16,25,49,-24,15,25,LDDDLL
+Wolverhampton Wanderers,25,1,5,19,16,48,-32,8,25,WDDLLL
+Arsenal,26,17,6,3,50,18,32,57,26,DDLWWD
+Manchester City,26,16,5,5,54,24,30,53,26,DLWDWW
+Aston Villa,26,15,5,6,37,27,10,50,26,DLWLDW
+Manchester United,26,12,9,5,47,37,10,45,26,DWWWWD
+Chelsea,26,12,8,6,47,30,17,44,26,LWWWWD
+Liverpool,26,12,6,8,41,35,6,42,26,DDLWLW
+Brentford,26,12,4,10,40,35,5,40,26,WLLWWD
+Everton,26,10,7,9,29,30,-1,37,26,DWDDWL
+AFC Bournemouth,26,9,10,7,43,45,-2,37,26,WDWWDW
+Newcastle United,26,10,6,10,37,37,0,36,26,WDLLLW
+Sunderland,26,9,9,8,27,30,-3,36,26,LWLWLL
+Fulham,26,10,4,12,35,40,-5,34,26,WLWLLL
+Crystal Palace,26,8,8,10,28,32,-4,32,26,DLLDWL
+Brighton & Hove Albion,26,7,10,9,34,34,0,31,26,DDLDLL
+Leeds United,26,7,9,10,36,45,-9,30,26,LWDLWD
+Tottenham Hotspur,26,7,8,11,36,37,-1,29,26,LLDDLL
+Nottingham Forest,26,7,6,13,25,38,-13,27,26,WDWDLD
+West Ham United,26,6,6,14,32,49,-17,24,26,LWWLWD
+Burnley,26,4,6,16,28,51,-23,18,26,DDDLLW
+Wolverhampton Wanderers,26,1,6,19,16,48,-32,9,26,DDLLLD
